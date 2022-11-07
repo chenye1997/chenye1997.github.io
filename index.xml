@@ -2,13 +2,13 @@
     <channel>
         <title>My New Hugo Site</title>
         <link>http://azurebullet007.github.io/</link>
-        <description>为往圣继绝学</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 06 Nov 2020 23:19:48 &#43;0800</lastBuildDate>
+        <description>Chen Ye&#39;s website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 06 Nov 2022 23:19:48 &#43;0800</lastBuildDate>
             <atom:link href="http://azurebullet007.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>My First Post</title>
+    <title>Introduction</title>
     <link>http://azurebullet007.github.io/my-first-post/</link>
-    <pubDate>Fri, 06 Nov 2020 23:19:48 &#43;0800</pubDate>
+    <pubDate>Sun, 06 Nov 2022 23:19:48 &#43;0800</pubDate>
     <author>xxxx</author>
     <guid>http://azurebullet007.github.io/my-first-post/</guid>
     <description><![CDATA[This is content. XXXX]]></description>
